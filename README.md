@@ -1,5 +1,5 @@
-# My works as a Risk Manager
-I, as a risk manager, specified risk management system requirements at work for hedge funds which were finally legalized in 2012 in South Korea. Since it's been more than seven years ago, this legacy system is *no longer used* now. Bloomberg **PORT** has replaced the system. Also, this work was done solely by me. I believe thus that it would have no adversarial effect to demenstrate my works with some screenshots of *Excel spreadsheets*, not even the real system, which I used for the specification:
+# My work as a Risk Manager
+I, as a risk manager, specified risk management system requirements at work for hedge funds which were finally legalized in 2012 in South Korea. Since it's been more than seven years ago, this legacy system is *no longer used* now. Bloomberg **PORT** has replaced the system. Also, this work was done solely by me. I believe thus that it would have no adversarial effect to demenstrate my work with some screenshots of *Excel spreadsheets*, not even the real system, which I used for the specification:
 - Volatility Decomposition
 - VaR Analysis
 - Performances and Risk Reports
