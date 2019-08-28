@@ -73,7 +73,7 @@ I conducted due-diligence on nine hedge fund managers in New York with my collea
 - General information such as prime brokers, auditors, undisclosed investment activies in feeder funds (rather than mother funds) and etc.
 
 #### 4) Operational Risk
-- Turnover ratio
+- A turnover ratio
 - Is your auditor one of Big 4?
 - History of changing prime brokers, auditors and custodian banks.
 
